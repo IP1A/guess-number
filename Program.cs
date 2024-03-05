@@ -14,7 +14,7 @@ namespace MyLight
 
             Console.WriteLine("Want guess a number? +/-");
             startGame = Console.ReadLine() == "+";
-
+            // no game :c
             if (!startGame) { return; }
 
             var rng = new Random(0);
