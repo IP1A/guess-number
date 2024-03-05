@@ -1,0 +1,7 @@
+C:\Users\Администратор\source\repos\MyLight\MyLight\bin\Debug\MyLight.exe.config
+C:\Users\Администратор\source\repos\MyLight\MyLight\bin\Debug\MyLight.exe
+C:\Users\Администратор\source\repos\MyLight\MyLight\bin\Debug\MyLight.pdb
+C:\Users\Администратор\source\repos\MyLight\MyLight\obj\Debug\MyLight.csproj.AssemblyReference.cache
+C:\Users\Администратор\source\repos\MyLight\MyLight\obj\Debug\MyLight.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\MyLight\MyLight\obj\Debug\MyLight.exe
+C:\Users\Администратор\source\repos\MyLight\MyLight\obj\Debug\MyLight.pdb
